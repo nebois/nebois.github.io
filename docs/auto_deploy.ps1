@@ -4,4 +4,4 @@ git add .
 git commit -m "auto depoly"
 git push
 
-echo "部署完成"
+echo "auto deploy done!"
